@@ -13,3 +13,16 @@ https://requestmetrics.com/
 https://raileo.com/  
 https://speedcurve.com/  
 https://www.rorvswild.com/  opensource and premium
+https://www.fastorslow.com/  free
+https://wp-umbrella.com/  
+https://crawly.app/  
+https://www.uptrends.com/  
+https://www.monitis.com/  
+https://updown.io/  
+https://uptimerobot.com/  
+https://www.statuscake.com/  
+https://www.site24x7.com/  
+https://www.dotcom-monitor.com/solutions/web-page-monitoring/  
+https://www.thousandeyes.com/
+https://uptime.com/
+
