@@ -25,4 +25,6 @@ https://www.site24x7.com/
 https://www.dotcom-monitor.com/solutions/web-page-monitoring/  
 https://www.thousandeyes.com/
 https://uptime.com/
-
+https://latency.apex.sh/
+https://www.lightest.app
+https://requestmetrics.com/
