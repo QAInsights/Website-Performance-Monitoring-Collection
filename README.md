@@ -29,3 +29,4 @@
  - https://www.lightest.app            
  - https://requestmetrics.com/ 
  - https://pagewatch.dev/
+ - https://www.bugsnag.com/
