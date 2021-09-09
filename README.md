@@ -1,5 +1,6 @@
 # 🌐 Website Performance Monitoring Collection
 
+ - https://github.com/performancecopilot/grafana-pcp [Open Source]
  - https://floodrunner.dev
  - https://pingdom.com
  - https://apex.sh/ping
@@ -7,7 +8,7 @@
  - https://apichecker.com/
  - https://www.debugbear.com/
  - https://www.cloudprobes.com/
- - http://getvector.io/ [opensource]
+ - http://getvector.io/ [Open Source - Not Being Maintained]
  - https://www.honeybadger.io/
  - https://calibreapp.com/
  - https://requestmetrics.com/
